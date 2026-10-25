@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**dineshpanda238/dineshpanda238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dinesh 👋
 
-Here are some ideas to get you started:
+### Aspiring Software Developer | ECE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Electronics and Communication Engineering student interested in software development, problem-solving, and building practical applications.
+
+## 💻 Technical Skills
+
+- **Languages:** C, Java, Python
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Currently Learning:** Data Structures and Algorithms (DSA)
+- **Tools:** Git and GitHub
+
+## 🚀 Projects
+
+I'm working on practical projects to strengthen my programming and software development skills. Completed projects will be documented here.
+
+## 🎯 Career Goals
+
+- Strengthen programming fundamentals.
+- Improve problem-solving and DSA skills.
+- Build useful, well-documented software projects.
+- Prepare for software developer interviews.
+
+## 🤝 Connect With Me
+
+- GitHub: [@dineshpanda238](https://github.com/dineshpanda238)
+
+---
+
+⭐ Thanks for visiting my profile!
